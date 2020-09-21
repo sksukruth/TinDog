@@ -1,0 +1,1 @@
+This is a static website which is similar to Tinder but this website is all about dogs. Dog lovers can visit this website to get cute little puppies. I created this website after learing about the essential components of Bootstrap.
